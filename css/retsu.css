@@ -1,0 +1,81 @@
+body{
+	margin: 0;
+	font-family: avenir, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+header{
+	background-color: deeppink;
+	text-align: center;
+	padding-top: 40px; 
+	padding-bottom: 30px;
+}
+
+h1, h2{
+	font-family: 'Baloo Bhai', cursive;
+	font-size: 35px;
+}
+header h1{
+	color:white;
+	font-size: 40px;
+	margin: 15px;
+}
+
+header img{
+    border-radius: 152px;
+    border: 17px solid white;
+    width: 270px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2 {
+	font-size: 31px;
+	color: deeppink;
+	margin-bottom: 0;
+	margin-top:40px;
+}
+
+a {
+	color:deeppink;
+}
+
+a:hover{
+	color:white;
+	background-color: deeppink;
+}
+
+footer{
+	background-color: deeppink;
+	text-align: center;
+	color:white;
+	padding: 40px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color:white;
+}
+
+
+footer a:hover{
+	color:white;
+	opacity: .5;
+}
+
+p.caption {
+	color: dimgrey;
+	font-style: italic;
+	margin-top:0;
+}
